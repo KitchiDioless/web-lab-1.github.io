@@ -34,18 +34,18 @@
             <h1 id="chapter-1"><b>I</b></h1>
             <p>Once when I was six years old I saw a magnificent picture in a book, called True Stories from Nature, about the primeval forest. It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing.</p>
             
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/hroznys.jpg" alt="a python and a pythonist">
+            <img src="images/hroznys.jpg" alt="a python and a pythonist">
             
             <p>In the book it said: <em>"Boa constrictors swallow their prey whole, without chewing it. After that they are not able to move, and they sleep through the six months that they need for digestion."</em></p>
             <p>I pondered deeply, then, over the adventures of the jungle. And after some work with a colored pencil I succeeded in making my first drawing. My Drawing Number One. It looked something like this:</p>
         
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/klobouk.jpg" alt="a cool hat from fallout nv">
+            <img src="images/klobouk.jpg" alt="a cool hat from fallout nv">
 
             <p>I showed my masterpiece to the grown-ups, and asked them whether the drawing frightened them.</p>
             <p>But they answered: <em>"Frighten? Why should any one be frightened by a hat?"</em></p>
             <p>My drawing was not a picture of a hat. It was a picture of a boa constrictor digesting an elephant. But since the grown-ups were not able to understand it, I made another drawing: I drew the inside of a boa constrictor, so that the grown-ups could see it clearly. They always need to have things explained. My Drawing Number Two looked like this:</p>
         
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/slon.jpg" alt="elephant is cooked">
+            <img src="images/slon.jpg" alt="elephant is cooked">
         
             <p>The grown-ups' response, this time, was to advise me to lay aside my drawings of boa constrictors, whether from the inside or the outside, and devote myself instead to geography, history, arithmetic, and grammar. That is why, at the age of six, I gave up what might have been a magnificent career as a painter. I had been disheartened by the failure of my Drawing Number One and my Drawing Number Two. Grown-ups never understand anything by themselves, and it is tiresome for children to be always and forever explaining things to them.</p>
             <p>So then I chose another profession, and learned to pilot airplanes. I have flown a little over all parts of the world; and it is true that geography has been very useful to me. At a glance I can distinguish China from Arizona. If one gets lost in the night, such knowledge is valuable.</p>
@@ -64,7 +64,7 @@
             <p><em>"Draw me a sheep!"</em></p>
             <p>I jumped to my feet, completely thunderstruck. I blinked my eyes hard. I looked carefully all around me. And I saw a most extraordinary small person, who stood there examining me with great seriousness. Here you may see the best portrait that, later, I was able to make of him. But my drawing is certainly very much less charming than its model.</p>
             
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/malyPrinc.jpg" alt="that guy">
+            <img src="images/malyPrinc.jpg" alt="that guy">
 
             <p>That, however, is not my fault. The grown-ups discouraged me in my painter's career when I was six years old, and I never learned to draw anything, except boas from the outside and boas from the inside.</p>
             <P>Now I stared at this sudden apparition with my eyes fairly starting out of my head in astonishment. Remember, I had crashed in the desert a thousand miles from any inhabited region. And yet my little man seemed neither to be straying uncertainly among the sands, nor to be fainting from fatigue or hunger or thirst or fear. Nothing about him gave any suggestion of a child lost in the middle of the desert, a thousand miles from any human habitation. When at last I was able to speak, I said to him:</P>
@@ -77,13 +77,13 @@
             <p><em>"No, no, no! I do not want an elephant inside a boa constrictor. A boa constrictor is a very dangerous creature, and an elephant is very cumbersome. Where I live, everything is very small. What I need is a sheep. Draw me a sheep.</em></p>
             <p>So then I made a drawing.</p>
             
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/nemocnyBeranek.jpg" alt="a sheep">
+            <img src="images/nemocnyBeranek.jpg" alt="a sheep">
 
             <p>He looked at it carefully, then he said:</p>
             <p><em>"No. This sheep is already very sickly. Make me another."</em></p>
             <p>So I made another drawing.</p>
 
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/Beran.jpg" alt="another sheep">
+            <img src="images/Beran.jpg" alt="another sheep">
 
             <p>My friend smiled gently and indulgently.</p>
             <p><em>"You see yourself," he said, "that this is not a sheep. This is a ram. It has horns."</em></p>
@@ -91,11 +91,11 @@
             <p>But it was rejected too, just like the others.</p>
             <p><em>"This one is too old. I want a sheep that will live a long time."</em></p>
 
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/staryBeranek.jpg" alt="and another one">
+            <img src="images/staryBeranek.jpg" alt="and another one">
 
             <p>By this time my patience was exhausted, because I was in a hurry to start taking my engine apart. So I tossed off this drawing.</p>
 
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/krabice.jpg" alt="a brick">
+            <img src="images/krabice.jpg" alt="a brick">
 
             <p>And I threw out an explanation with it.</p>
 
@@ -115,7 +115,7 @@
             <p>It took me a long time to learn where he came from. The little prince, who asked me so many questions, never seemed to hear the ones I asked him. It was from words dropped by chance that, little by little, everything was revealed to me.</p>
             <p>The first time he saw my airplane, for instance (I shall not draw my airplane; that would be much too complicated for me), he asked me:</p>
             
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/princSala.jpg" alt="why didn't he blow away">
+            <img src="images/princSala.jpg" alt="why didn't he blow away">
             
             <p><em>"What is that object?"</em></p>
             <p><em>"That is not an object. It flies. It is an airplane. It is my airplane."</em></p>
@@ -139,7 +139,7 @@
             <p><em>"That is so. And if you are good I will give you a string, too, so that you can tie him during the day, and a post to tie him to."</em></p>
             <p>But the little prince seemed shocked by this offer:</p>
 
-            <img src="http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/images/malyPrincHvezdy.jpg" alt="how is he even breathing">
+            <img src="images/malyPrincHvezdy.jpg" alt="how is he even breathing">
 
             <p><em>"Tie him! What a queer idea!"</em></p>
             <p><em>"But if you don't tie him," I said, "he will wander off somewhere, and get lost."</em></p>
