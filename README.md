@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
     <head>
         <title>The little prince: 1-3 chapters</title>
